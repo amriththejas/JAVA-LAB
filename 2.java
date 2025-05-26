@@ -25,3 +25,11 @@ public class BoxingUnboxingDemo {
         System.out.println("Unboxed Double: " + unboxedDouble);
     }
 }
+
+
+Boxed Integer (explicit): 10
+Boxed Integer (auto-boxing): 10
+Unboxed Integer (explicit): 20
+Unboxed Integer (auto-unboxing): 20
+Boxed Double: 15.5
+Unboxed Double: 15.5
