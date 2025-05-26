@@ -19,3 +19,12 @@ public class EnumerationExample {
         }
     }
 }
+
+OUTPUT 
+SUNDAY is a workday: false
+MONDAY is a workday: true
+TUESDAY is a workday: true
+WEDNESDAY is a workday: true
+THURSDAY is a workday: true
+FRIDAY is a workday: true
+SATURDAY is a workday: false
