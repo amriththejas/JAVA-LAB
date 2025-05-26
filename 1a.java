@@ -1,4 +1,4 @@
-
+ 
 import java.util.Scanner;
 
 class GymMember {
@@ -53,3 +53,17 @@ public class Gym {
         scanner.close();
     }
 }
+
+
+OUTPUT
+Enter member's name: John
+Enter member's age: 28
+Enter membership status (Active/Inactive): Active
+Enter membership duration (in months): 12
+
+Member Information:
+Name: John
+Age: 28
+Membership Status: Active
+Membership Duration: 12 months
+Total Membership Fee: ₹6000.0
