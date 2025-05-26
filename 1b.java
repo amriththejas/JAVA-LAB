@@ -17,3 +17,14 @@ public class ChessBoardPattern {
         }
     }
 }
+
+
+OUTPUT
+#   #   #   #   
+  #   #   #   # 
+#   #   #   #   
+  #   #   #   # 
+#   #   #   #   
+  #   #   #   # 
+#   #   #   #   
+  #   #   #   #
